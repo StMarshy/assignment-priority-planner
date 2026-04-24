@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Assignment -1",
+        "course": "Math",
+        "due_date": "2026-05-02",
+        "difficulty": 5,
+        "estimated_hours": 5.0,
+        "importance": 5,
+        "priority_score": 32.61
+    },
+    {
+        "title": "Assignment 1",
+        "course": "Math 1",
+        "due_date": "2026-05-2",
+        "difficulty": 5,
+        "estimated_hours": 5.0,
+        "importance": 4,
+        "priority_score": 30.61
+    }
+]
